@@ -1,0 +1,43 @@
+{
+  "profile": {
+    "weight": 80,
+    "height": 156,
+    "age": 21,
+    "gender": "male",
+    "activity": 1.55,
+    "goal": "loss"
+  },
+  "workout": {
+    "currentGoal": "gain",
+    "completedSets": {
+      "loss": {},
+      "gain": {}
+    },
+    "customExercises": {
+      "loss": [
+        {
+          "name": "leg",
+          "detail": "3x12",
+          "sets": 3,
+          "isCustom": true
+        }
+      ],
+      "gain": [],
+      "maintain": []
+    }
+  },
+  "steps": {
+    "steps": 1000,
+    "stepGoal": 10000,
+    "history": {
+      "2026-05-29": 1000
+    }
+  },
+  "foodLog": [
+    {
+      "name": "6 eggs",
+      "calories": 600,
+      "protein": 36
+    }
+  ]
+}
